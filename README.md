@@ -29,3 +29,4 @@ Bu proje, Doğal Dil İşleme (NLP) teknikleri kullanılarak Türkçe haber meti
 
 ## 📂 Veri Seti Hakkında
 Proje TTC-3600 veri setini kullanmaktadır. Telif hakları ve boyut nedeniyle ham veri bu depoda yer almamaktadır.
+Link: https://github.com/denopas/TTC-3600 
