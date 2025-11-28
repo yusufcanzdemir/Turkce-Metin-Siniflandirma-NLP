@@ -14,7 +14,7 @@ Bu proje, Doğal Dil İşleme (NLP) teknikleri kullanılarak Türkçe haber meti
 1.  Projeyi klonlayın:
     ```bash
     git clone [https://github.com/yusufcanzdemir/Turkce-Metin-Siniflandirma-NLP.git](https://github.com/yusufcanzdemmir/Turkce-Metin_Siniflandirma-NLP.git)
-    cd PROJEN
+    cd Turkce-Metin-Siniflandirma-NLP
     ```
 
 2.  Sanal ortamı kurun ve kütüphaneleri yükleyin:
