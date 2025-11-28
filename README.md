@@ -13,7 +13,7 @@ Bu proje, Doğal Dil İşleme (NLP) teknikleri kullanılarak Türkçe haber meti
 
 1.  Projeyi klonlayın:
     ```bash
-    git clone [https://github.com/yusufcanzdemir/Turkce-Metin-Siniflandirma-NLP.git](https://github.com/yusufcanzdemmir/Turkce-Metin-Siniflandirma-NLP.git)
+    git clone [https://github.com/yusufcanzdemir/Turkce-Metin-Siniflandirma-NLP.git](https://github.com/yusufcanzdemir/Turkce-Metin-Siniflandirma-NLP.git)
     cd Turkce-Metin-Siniflandirma-NLP
     ```
 
