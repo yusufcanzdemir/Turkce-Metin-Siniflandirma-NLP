@@ -7,7 +7,6 @@ Bu proje, Doğal Dil İşleme (NLP) teknikleri kullanılarak Türkçe haber meti
 * **Veri İşleme:** TTC-3600 veri seti entegrasyonu, temizlik, stopword removal.
 * **Modeller:** Naive Bayes, KNN ve MaxEnt (Lojistik Regresyon).
 * **Öznitelik Çıkarımı:** TF-IDF, BoW, N-Grams ve Word2Vec.
-* **Arayüz:** Streamlit ile geliştirilmiş modern web arayüzü.
 
 ## 🛠️ Kurulum
 
