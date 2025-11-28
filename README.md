@@ -24,7 +24,7 @@ Bu proje, Doğal Dil İşleme (NLP) teknikleri kullanılarak Türkçe haber meti
 
 3.  Uygulamayı çalıştırın:
     ```bash
-    streamlit run app.py
+    python main.py
     ```
 
 ## 📂 Veri Seti Hakkında
