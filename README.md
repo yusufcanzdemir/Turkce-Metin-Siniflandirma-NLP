@@ -1,6 +1,6 @@
 # 🧠 Türkçe Metin Sınıflandırma ve NLP Projesi
 
-Bu proje, Doğal Dil İşleme (NLP) teknikleri kullanılarak Türkçe haber metinlerini (Spor, Ekonomi, Teknoloji vb.) sınıflandıran yapay zeka uygulamasıdır.
+Bu proje, Doğal Dil İşleme (NLP) teknikleri kullanılarak Türkçe haber metinlerini (Spor, Ekonomi, Teknoloji vb.) sınıflandıran yapay zeka uygulamasıdır. Verileri eş anlamlıları ile değiştirerek veri çoğaltabilir, aynı verinin farklı modellerle farkı doğruluk oranlarına sahip olduğunu görebilirsiniz.
 
 ## 🚀 Özellikler
 
